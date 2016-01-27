@@ -6,7 +6,7 @@ This is the R script repository of the "[Tools for Analytics Lab - R-track](http
 * General overview of the R ecosystem: [slides](http://bit.ly/CEU-R-1)
 * Introduction to R: [variables, functions and vectors](https://github.com/daroczig/CEU-R-lab/blob/master/1.R)
 
-### Jan 26 (90 min): First Steps with Data Visualization
+### Jan 26 (90 min): Mukodik!!! 
 
 * Review of the most important R object types
 * Quick overview of the missed `data.frame` examples from yesterday
